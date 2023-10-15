@@ -1,3 +1,6 @@
 .border-bottom {
     background-color: rgb(242, 242, 242);
 }
+#comment::placeholder {
+    color: #bcbcbc;
+}
